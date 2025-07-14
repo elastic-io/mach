@@ -76,7 +76,7 @@ We welcome code contributions! Please follow this process:
 1. **Fork the repository**
    ```bash
    # Fork the repository on GitHub, then clone your fork
-   git clone https://github.com/your-username/mach.git
+   git clone https://github.com/elastic-io/mach.git
    cd mach
    ```
 

@@ -286,7 +286,7 @@ Thank you to all contributors who help make Mach better! Your testing and qualit
 
 ```bash
 # Development workflow
-git clone https://github.com/your-username/mach.git
+git clone https://github.com/elastic-io/mach.git
 cd mach
 make test-smoke          # Quick validation
 make test               # Full test suite
